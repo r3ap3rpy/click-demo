@@ -2,7 +2,7 @@
 
 > The simple folder holds an installable package with 2 commands
 
-bash```
+```console
 cd simple
 pip install .
 
